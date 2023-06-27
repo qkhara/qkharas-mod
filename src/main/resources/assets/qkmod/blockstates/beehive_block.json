@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "qkmod:block/beehive_block" }
+  }
+}

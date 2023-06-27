@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "qkmod:beehive_block"
+        }
+    ],
+    "result": {
+        "item": "qkmod:vertical_beehive_block",
+        "count": 1
+    }
+}

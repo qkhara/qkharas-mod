@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "qkmod",
+  "version": "${version}",
+
+  "name": "qkhara's Mod",
+  "description": "personal quality of life for 1.19.2",
+  "authors": [
+    "qkhara"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/wxtchyquinnie/qkharas-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/qkmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.qkhara.qk.qkmod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

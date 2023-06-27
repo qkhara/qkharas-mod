@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "qkmod:blocks/barrel_block"
+  }
+}

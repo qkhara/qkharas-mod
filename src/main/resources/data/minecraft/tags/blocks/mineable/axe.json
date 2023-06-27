@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "qkmod:barrel_block",
+    "qkmod:beehive_block",
+    "qkmod:vertical_beehive_block",
+    "qkmod:vertical_barrel_block"
+  ]
+}
